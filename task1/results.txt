@@ -1,0 +1,90 @@
+1
+
+real	0m6.766s
+user	0m6.656s
+sys	0m0.045s
+===
+2
+
+real	0m3.968s
+user	0m6.845s
+sys	0m0.036s
+===
+3
+
+real	0m3.720s
+user	0m8.533s
+sys	0m0.032s
+===
+4
+
+real	0m4.091s
+user	0m12.229s
+sys	0m0.048s
+===
+5
+
+real	0m4.193s
+user	0m11.986s
+sys	0m0.052s
+===
+6
+
+real	0m4.169s
+user	0m12.517s
+sys	0m0.051s
+===
+7
+
+real	0m4.150s
+user	0m12.068s
+sys	0m0.049s
+===
+8
+
+real	0m4.221s
+user	0m12.273s
+sys	0m0.058s
+===
+9
+
+real	0m4.180s
+user	0m12.524s
+sys	0m0.055s
+===
+10
+
+real	0m4.205s
+user	0m12.616s
+sys	0m0.054s
+===
+11
+
+real	0m4.249s
+user	0m12.551s
+sys	0m0.063s
+===
+12
+
+real	0m4.240s
+user	0m12.706s
+sys	0m0.058s
+===
+13
+
+real	0m4.559s
+user	0m12.720s
+sys	0m0.068s
+===
+14
+
+real	0m5.352s
+user	0m13.611s
+sys	0m0.098s
+===
+15
+
+real	0m4.251s
+user	0m12.610s
+sys	0m0.058s
+===
